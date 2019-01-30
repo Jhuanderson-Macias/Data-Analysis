@@ -1,10 +1,10 @@
 library("twitteR")
 library("ROAuth")
 
-consumerKey <- "rtjOB5e4LbMYWoTAjX77FvHdA"
-consumerSecret <- "Cbv58DXyy6iKI3DLQMinEqC75XknadUgmw1M2Yh2leVaWvKQmV"
-accessToken <- "996563610-TFDSyyeD75pIJYiGaFkoODz7zGiPap2kfiNCZHDo"
-accessTokenSecret <- "2hUreIub1SQdFtaZIkZIW05ky4jfcEitYLNEPvbtDW6TG"
+consumerKey <- "rtXXXXX"
+consumerSecret <- "XXX"
+accessToken <- "9XX"
+accessTokenSecret <- "XXG"
 setup_twitter_oauth(consumerKey, consumerSecret, accessToken, accessTokenSecret)
 
 library(tm); library(SnowballC)
