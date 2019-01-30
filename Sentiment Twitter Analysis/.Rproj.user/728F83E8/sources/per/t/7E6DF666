@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544486375222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2783004468",
+    "id" : "7E6DF666",
+    "lastKnownWriteTime" : 1544504404,
+    "last_content_update" : 1544504404373,
+    "path" : "~/Desktop/Sentiment Twitter/Sentiment Twitter.R",
+    "project_path" : "Sentiment Twitter.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
